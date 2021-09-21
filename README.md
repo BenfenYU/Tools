@@ -19,13 +19,13 @@ Sometimes, When our process exits, there will still be residual graphics memory 
 ### Usage
 
 ```shell
-${/absolute/path/of/python/interpreter/} clear_vanish_cache.py ${graphics card number} 
+${/absolute/path/of/python/interpreter} clear_vanish_cache.py ${graphics card number} 
 ```
 
 or be careful
 
 ```shell
-sudo ${/absolute/path/of/python/interpreter/} clear_vanish_cache.py ${graphics card number} 
+sudo ${/absolute/path/of/python/interpreter} clear_vanish_cache.py ${graphics card number} 
 ```
 
 
