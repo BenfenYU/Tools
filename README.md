@@ -62,6 +62,7 @@ For text detection data that follow paddleOCR data format, the tool convert text
 
 ### usage
 
-```python paddleocr_convert_det_2_rec.py --det_base_path=/path/to/det/data --det_txt_name=/path/to/det/label --to_rec_base_path=/path/to/save/rec/data --to_rec_name=/path/to/save/rec/label
+```python 
+paddleocr_convert_det_2_rec.py --det_base_path=/path/to/det/data --det_txt_name=/path/to/det/label --to_rec_base_path=/path/to/save/rec/data --to_rec_name=/path/to/save/rec/label
 python 
 ```
